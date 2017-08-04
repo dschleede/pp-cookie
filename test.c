@@ -19,18 +19,37 @@ char *encode_cookie(char *cookie, char *user, char *ipaddr, int rand_num)
         int cookie_len = sizeof(cookie_st);
         rc4_key rc4_ctx;
 
-        prepare_key((unsigned char *)_SV_RC4_KEY_DATA, _SV_RC4_KEY_LEN, &rc4_ctx);
+	//To use RC4 securely, we need to create an IV/nonce for each sessionid Generated. A short term key MUST
+	// be derived from the combination of the long-term key and the nonce WITH a cryptographic hash function.
+	// and NOT used by simply concatinating the nonce and key
+	// the Nonce is NOT secret, and for decryption, the nonce can be appended to the beginning in plaintext
+	// theoretically, you should NOT ever try to reuse a nonce without changing the long term key.
+	// we need a minimal of 64 bits of entropy for the nonce if it is to be random
+
+	prepare_key((unsigned char *)_SV_RC4_KEY_DATA, _SV_RC4_KEY_LEN, &rc4_ctx);
 
         memset(rc4_cipher, 0, sizeof(rc4_cipher));
-        memcpy(rc4_cipher, user, strlen(user));
-        memcpy(&(rc4_cipher[strlen(user)  + 1]), ipaddr, strlen(ipaddr));
+	// creating the data to encrypt
+	//we NEED to start first with the IV, this is CRITICAL, furhter IV should be 64 bits and FULLY compressed
+	
+        memcpy(rc4_cipher, &rand_num, sizeof(rand_num));
 
-        sprintf(rand_str, "%d", rand_num);
-        memcpy(&(rc4_cipher[strlen(user) + strlen(ipaddr) + 2]), rand_str, strlen(rand_str));
-        rc4((unsigned char *)rc4_cipher, strlen(user)+strlen(ipaddr)+strlen(rand_str)+2, &rc4_ctx);
+        memcpy(&(rc4_cipher[sizeof(rand_num)]), user, strlen(user));
+        memcpy(&(rc4_cipher[sizeof(rand_num)+ strlen(user)  + 1]), ipaddr, strlen(ipaddr));
+
+#ifdef DEBUG
+	printf("Sizeof rand_num = %lu\n",sizeof(rand_num));
+	printf("Len = %lu\n",strlen(user)+strlen(ipaddr)+sizeof(rand_num)+1);
+
+	for(int xx=0;xx<(strlen(user)+strlen(ipaddr)+sizeof(rand_num)+1);xx++){
+	  printf("%c",rc4_cipher[xx]);
+	}
+	printf("\n");
+#endif
+	rc4((unsigned char *)rc4_cipher, strlen(user)+strlen(ipaddr)+sizeof(rand_num)+1, &rc4_ctx);
         //encode64(rc4_cipher, strlen(user)+strlen(ipaddr)+strlen(rand_str)+2, cookie_st, &cookie_len);
 	outlen = (long unsigned int) cookie_len;
-        cookietemp = base64_encode(rc4_cipher, strlen(user)+strlen(ipaddr)+strlen(rand_str)+2, &outlen);
+        cookietemp = base64_encode(rc4_cipher, strlen(user)+strlen(ipaddr)+sizeof(rand_num)+1, &outlen);
 	// Lets copy this to the local buffer
 	cookie_len = (int) outlen;
 	strncpy(cookie_st, cookietemp,cookie_len);
@@ -51,8 +70,8 @@ int main()
   srand(time(NULL));
   
   //assign a random number
-  //random = 4;  // everyone knows that 4 is considered a random number
-  random = rand();
+  random = 4;  // everyone knows that 4 is considered a random number
+  //random = rand();
   strcpy(user, "USERNAME");
   strcpy(ipaddr, "192.168.0.1");
   
