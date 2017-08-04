@@ -5,8 +5,8 @@
 #include "base64.h"
 
 //lets define some global variables... don't want to taint the func call too much
-unsigned char *_SV_RC4_KEY_DATA = "xyzzy";
-int _SV_RC4_KEY_LEN = 5;
+unsigned char *_SV_RC4_KEY_DATA = "sample";
+int _SV_RC4_KEY_LEN = 6;
 char *cookietemp;
 long unsigned int outlen;
 
@@ -53,8 +53,8 @@ int main()
   //assign a random number
   //random = 4;  // everyone knows that 4 is considered a random number
   random = rand();
-  strcpy(user, "dschleed");
-  strcpy(ipaddr, "192.168.1.1");
+  strcpy(user, "USERNAME");
+  strcpy(ipaddr, "192.168.0.1");
   
   encode_cookie(cookie,user,ipaddr,random);
 }
