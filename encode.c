@@ -11,7 +11,7 @@ int _SV_RC4_KEY_LEN = 6;
 char *cookietemp;
 long unsigned int outlen;
 
-char *encode_cookie(char *cookie, char *user, char *ipaddr, int rand_num)
+char *encode_cookie(char *cookie, char *user, char *ipaddr, int rand_num,int rand2,int rand3,int rand4)
 {
 
         char rand_str[15] = {0, };
@@ -34,11 +34,14 @@ char *encode_cookie(char *cookie, char *user, char *ipaddr, int rand_num)
 
 	memset(ephemeral_key, 0, sizeof(ephemeral_key));
 	memcpy(ephemeral_key, &rand_num, sizeof(rand_num));  //copy binary representation to key, we want ALL bits to possibly change
-	memcpy(ephemeral_key+sizeof(rand_num), _SV_RC4_KEY_DATA, _SV_RC4_KEY_LEN);  // Append the master key
+	memcpy(ephemeral_key+sizeof(random), &rand2, sizeof(rand_num));  //copy binary representation to key
+	memcpy(ephemeral_key+sizeof(random)*2, &rand3, sizeof(rand_num));  //copy binary representation to key
+	memcpy(ephemeral_key+sizeof(random)*3, &rand4, sizeof(rand_num));  //copy binary representation to key
+	memcpy(ephemeral_key+sizeof(rand_num)*4, _SV_RC4_KEY_DATA, _SV_RC4_KEY_LEN);  // Append the master key
 	
 #ifdef DEBUG
-	printf("Sizeof ephemeral_key = %lu\n",sizeof(rand_num)+_SV_RC4_KEY_LEN);
-        for(int xy=0;xy<(sizeof(rand_num)+_SV_RC4_KEY_LEN);xy++){printf("%c",ephemeral_key[xy]);}printf("\n");
+	printf("Sizeof ephemeral_key = %lu\n",sizeof(rand_num)*4+_SV_RC4_KEY_LEN);
+        for(int xy=0;xy<(sizeof(rand_num)*4+_SV_RC4_KEY_LEN);xy++){printf("%c",ephemeral_key[xy]);}printf("\n");
 #endif
 
 	sha256_init(&sha256_ctx);
@@ -59,20 +62,23 @@ char *encode_cookie(char *cookie, char *user, char *ipaddr, int rand_num)
         memcpy(&(rc4_cipher[strlen(user)  + 1]), ipaddr, strlen(ipaddr));
 
 #ifdef DEBUG
-	printf("Sizeof rand_num = %lu\n",sizeof(rand_num));printf("Len = %lu\n",strlen(user)+strlen(ipaddr)+1);
-        for(int xx=0;xx<(strlen(user)+strlen(ipaddr)+1);xx++){printf("%c",rc4_cipher[xx]);}printf("\n");
+	printf("Sizeof rand_num = %lu\n",sizeof(rand_num));printf("Len = %lu\n",strlen(user)+strlen(ipaddr)+2);
+        for(int xx=0;xx<(strlen(user)+strlen(ipaddr)+2);xx++){printf("%c",rc4_cipher[xx]);}printf("\n");
 #endif
-	rc4((unsigned char *)rc4_cipher, strlen(user)+strlen(ipaddr)+1, &rc4_ctx);
+	rc4((unsigned char *)rc4_cipher, strlen(user)+strlen(ipaddr)+2, &rc4_ctx);
 
         // We now need to append the IV to the front of the Cookie, and then call the base64 encode
 	memset(tempcookie, 0, sizeof(tempcookie));
         memcpy(tempcookie, &rand_num, sizeof(rand_num));
-        memcpy(&(tempcookie[sizeof(rand_num)]), rc4_cipher, strlen(user)+strlen(ipaddr)+1);
+	memcpy(&(tempcookie[sizeof(rand_num)]), &rand2, sizeof(rand_num));
+	memcpy(&(tempcookie[sizeof(rand_num)*2]), &rand3, sizeof(rand_num));
+	memcpy(&(tempcookie[sizeof(rand_num)*3]), &rand4, sizeof(rand_num));
+        memcpy(&(tempcookie[sizeof(rand_num)*4]), rc4_cipher, strlen(user)+strlen(ipaddr)+2);
 
 
         //encode64(rc4_cipher, strlen(user)+strlen(ipaddr)+1, cookie_st, &cookie_len);
 	outlen = (long unsigned int) cookie_len;
-        cookietemp = base64_encode(tempcookie, sizeof(rand_num)+strlen(user)+strlen(ipaddr)+1, &outlen);
+        cookietemp = base64_encode(tempcookie, sizeof(rand_num)*4+strlen(user)+strlen(ipaddr)+2, &outlen);
 	// Lets copy this to the local buffer
 	cookie_len = (int) outlen;
 	strncpy(cookie_st, cookietemp,cookie_len);
@@ -88,16 +94,19 @@ char *encode_cookie(char *cookie, char *user, char *ipaddr, int rand_num)
 int main()
 {
   char cookie[256],user[256],ipaddr[256];
-  int random;
+  int random,rand2,rand3,rand4;
 
   srand(time(NULL));
   
   //assign a random number
   //random = 4;  // everyone knows that 4 is considered a random number
   random = rand();
+  rand2 = rand();
+  rand3 = rand();
+  rand4 = rand();
   strcpy(user, "USERNAME");
   strcpy(ipaddr, "192.168.0.1");
   
-  encode_cookie(cookie,user,ipaddr,random);
+  encode_cookie(cookie,user,ipaddr,random,rand2,rand3,rand4);
 }
 
