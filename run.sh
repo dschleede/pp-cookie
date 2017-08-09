@@ -2,6 +2,6 @@
 #
 for number in {1..20000}
 do
-    ./test
+    ./decode `./encode`
     sleep 1
 done

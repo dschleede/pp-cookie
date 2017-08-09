@@ -34,9 +34,9 @@ char *encode_cookie(char *cookie, char *user, char *ipaddr, int rand_num,int ran
 
 	memset(ephemeral_key, 0, sizeof(ephemeral_key));
 	memcpy(ephemeral_key, &rand_num, sizeof(rand_num));  //copy binary representation to key, we want ALL bits to possibly change
-	memcpy(ephemeral_key+sizeof(random), &rand2, sizeof(rand_num));  //copy binary representation to key
-	memcpy(ephemeral_key+sizeof(random)*2, &rand3, sizeof(rand_num));  //copy binary representation to key
-	memcpy(ephemeral_key+sizeof(random)*3, &rand4, sizeof(rand_num));  //copy binary representation to key
+	memcpy(ephemeral_key+sizeof(rand_num), &rand2, sizeof(rand_num));  //copy binary representation to key
+	memcpy(ephemeral_key+sizeof(rand_num)*2, &rand3, sizeof(rand_num));  //copy binary representation to key
+	memcpy(ephemeral_key+sizeof(rand_num)*3, &rand4, sizeof(rand_num));  //copy binary representation to key
 	memcpy(ephemeral_key+sizeof(rand_num)*4, _SV_RC4_KEY_DATA, _SV_RC4_KEY_LEN);  // Append the master key
 	
 #ifdef DEBUG
@@ -45,7 +45,7 @@ char *encode_cookie(char *cookie, char *user, char *ipaddr, int rand_num,int ran
 #endif
 
 	sha256_init(&sha256_ctx);
-	sha256_update(&sha256_ctx, ephemeral_key, sizeof(rand_num) + _SV_RC4_KEY_LEN);
+	sha256_update(&sha256_ctx, ephemeral_key, sizeof(rand_num)*4 + _SV_RC4_KEY_LEN);
 	sha256_final(&sha256_ctx, ephemeral_key); // Copy from SHA256 buffer back to the key, length is 32 bytes (fixed for SHA256)
 
 #ifdef DEBUG
