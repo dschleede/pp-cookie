@@ -1,9 +1,24 @@
-http://www.cypherspace.org/adam/rsa/rc4c.html
-example cookie
+This code contains example code to generate a sessionID from RC4.
+We want to make sure that this has good crypto properties.
 
+encode.c will encode some static information
+decode.c will decode this information
+*BOTH programs will read from random.dat, which is a random byte datafile generated as below.
+
+
+
+http://www.cypherspace.org/adam/rsa/rc4c.html
+
+example cookie:
 Domain = 192.168.161.5
 sessionId Name
 Path: /
 https://192.168.161.5/wxmd.asp?CURRENT_PATH=/network/ip
 VNTRZZfAtp0BJ+I+r5X49QyulqiQnyCdfGG1vqd00dD+prA=
+
+Generate a proper Random data set:
+openssl rand -out random.dat 2048000000
+
+Test Random data:
+dieharder -a -g 201 -f datafile
 

@@ -75,7 +75,10 @@ char *encode_cookie(char *cookie, char *user, char *ipaddr, int rand_num,int ran
 	memcpy(&(tempcookie[sizeof(rand_num)*3]), &rand4, sizeof(rand_num));
         memcpy(&(tempcookie[sizeof(rand_num)*4]), rc4_cipher, strlen(user)+strlen(ipaddr)+2);
 
-
+	//#ifdef DEBUG
+	//printf("Raw Value ->");
+        //for(int xx=0;xx<(sizeof(rand_num)*4+strlen(user)+strlen(ipaddr)+2);xx++){printf("%02x",tempcookie[xx]);}
+	//#endif
         //encode64(rc4_cipher, strlen(user)+strlen(ipaddr)+1, cookie_st, &cookie_len);
 	outlen = (long unsigned int) cookie_len;
         cookietemp = base64_encode(tempcookie, sizeof(rand_num)*4+strlen(user)+strlen(ipaddr)+2, &outlen);
@@ -83,7 +86,6 @@ char *encode_cookie(char *cookie, char *user, char *ipaddr, int rand_num,int ran
 	cookie_len = (int) outlen;
 	strncpy(cookie_st, cookietemp,cookie_len);
 	
-	printf("%s\n",cookie_st);
         cookie_st[cookie_len] = 0x00;
         if (cookie) {
                 sprintf(cookie, "%s", cookie_st);
@@ -95,18 +97,28 @@ int main()
 {
   char cookie[256],user[256],ipaddr[256];
   int random,rand2,rand3,rand4;
+  unsigned char buffer[4];
+  FILE *fileptr;
 
-  srand(time(NULL));
-  
+  fileptr = fopen("random.dat","rb");
+
+  while(1) {
   //assign a random number
+  
   //random = 4;  // everyone knows that 4 is considered a random number
-  random = rand();
-  rand2 = rand();
-  rand3 = rand();
-  rand4 = rand();
+  
+
+  fread(buffer,4,1,fileptr); memcpy(&random, buffer, sizeof(random));
+  fread(buffer,4,1,fileptr); memcpy(&rand2, buffer, sizeof(random));
+  fread(buffer,4,1,fileptr); memcpy(&rand3, buffer, sizeof(random));
+  fread(buffer,4,1,fileptr); memcpy(&rand4, buffer, sizeof(random));
+
+
   strcpy(user, "USERNAME");
   strcpy(ipaddr, "192.168.0.1");
   
   encode_cookie(cookie,user,ipaddr,random,rand2,rand3,rand4);
+  printf("%s\n",cookie);
+  }
+  fclose(fileptr);
 }
-
