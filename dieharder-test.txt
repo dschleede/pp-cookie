@@ -1,0 +1,1749 @@
+Script started on Thu 10 Aug 2017 09:40:53 AM CDT
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ diehardd[Ker[K[K[K[K[K[K[K[K[K
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ent don2
+Entropy = 7.952667 bits per byte.
+
+Optimum compression would reduce the size
+of this 251076608 byte file by 0 percent.
+
+Chi square distribution for 251076608 samples is 23318709.95, and randomly
+would exceed this value less than 0.01 percent of the times.
+
+Arithmetic mean value of data bytes is 129.0818 (127.5 = random).
+Monte Carlo value for Pi is 3.081094987 (error 1.93 percent).
+Serial correlation coefficient is 0.013556 (totally uncorrelated = 0.0).
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ more don1^C
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ more don1
+9a60d2f3e158ca5ab0400050a40a4cfbe3121c691fbf0efd4d2080029ae9896c997d488e9603e8da931b0a75f8e0dfd08c38513d44fc9ab48c8d83a9cefa2691ae921b2c01429c2af03
+b6056175bcebeb43dbc084e920a6a6cbd1048ea53596dacbc03ae42d377de048483b47a79e1853c9a5b6553bfc41e2c71a219a7768c99e93c36d9aa1797b03526754224380c2eb3d054
+15c6e4ac135fa1d40f65bface039dbc6078f096edb507cb76d89b9fe1c664fa0cdf5f1fee583896247b042528f83d6dd6305458a90a0158b8e44556e99826230171181e78e41456e268
+9ed9902fbf2e77b469046a8ebeca9f6ca138b80b0b304cbd4fbc0f65484a0209748b5f73a9743b4c9d0d5f5ec3c9a35995abe1e513dd8ae49c8da31b437129772668c6034b66c58fd1a
+98d80f4763d6377acf8163e0bf27a406df80c8fddbef17f75ff47676f8729c05b057578d676b16eb9d117022d52f795af842cc60ee909df42d6b2bd25eae2d3097aab3d875de8f5225e
+22a0fcc4df5e7d558178fd59f039fa8bcaa7b402415df78a8b6e0ff10271c5cbc6e1e4167c8a75414d3885ec19aca5741e9bafa72766cdeda4edb5e9ad625a88756a423048bb6a3f12f
+167684f208ffbedebdf6e60b27450b579ee604b8529c5e8257fb5b92041bd37c0c82847be90a95905e6dfca2c4c33a053174c6a4c7295c6d9312e65afbcf6b3dd47662fb6ed66797adc
+6b870f209bcc8944f4a181106f3c81f740dc3a22c02829d844a2f773349c383cc0df8307ba3b1dc8399cece716cd7d78fd1f83f469fb774ca99761a1daf2fcd13b8ef2c86e1801f9a92
+020457e4af17673d1c4e6fad2af3e2c01656317b263131ab2891e0b4a4affe7ec2db992819d06cd326e8851bd4c23b3d839ac1cfbab3f1b460839ee9bf45a84cbb147fc57613ee725ba
+1b1a93235b948f6a31d9880abbae65f988ee2f240ce1e08f93125baa17626d218d41074f0b7746ab219887fbced93597eff1da531a7fa6a8a0cd2eaf2b71d43c040c1c94a6d543b60cf
+fe579945c6fb86611faa95f5a8c82efa448411e3e11a332a5b608067b29108359d94663fde5c0ab267aab9a2d08f99d7594e4ab1e3bbea8f0c4457a9fc14e89fb9e255838c542023989
+f2183bfeeaed2dd8d08978c9850919de3ff8b11e539f0194a27bfab8319933ea47a832d24e39f046b7cef2c2cf8904455c5e3fe1d60324a44122563dcfebe7bb46763e121fcb074f913
+9a2c5ffa3640e125c56580a39b01584d453e49d97154dd53015518d611ebcacc9c813fe1a561f24a58ba27f3fd82c75a16a0e6ef63eb99e3c87591e4cac7daa94c873e193bd5503966d
+d68279ff5cef69217468efc2766859cff0a32baf2924d392684114d280b022ce9e8af4e37d6e551665896d00e6ba05248ce68c4bceec8d48fb47d308799847506ac708aabb3c327cf1c
+b27d57d4e8be9c01e3c8ad965a0deb5489340b369f91e47a85f7fc84c947c113f02f366a26f2dc66f1969d0bb123aa1efdf297c8147ca37b1415f8f645eddbeb4ee6fdb150e4864f63d
+08f63a1ceba90aba46b9feff9fd344cc901e82b7101c0d40e02cd169430ebdf661cdbc246d2569e16b78f828d20b704a9d3bfa6a36011c80722f53e1e126d36147682a412dd813eaf28
+8f9efd5fac4ac2d997b8e000e62c5627b3a51ab40226b9c09035fcb4a1ebcb628ac1fc7eef4d42b2dbad788a30e97091159f66f9f0f77753a31eab0318cd401946d5f99d3a5591f8124
+58cda2559aa151c1ae52aa576ba5231634c018b75288020e047a2a831b9d7dbff7f98e3d9ca33b4f8f4c6d90b000c9e9090f5fcc82bb86978c2ad9c70bcf7e2f9c9630a35be2c25d341
+5dc8bac09efe7ecec41877e2c27edbe3ba0d24e23f388b3162f99238e62f2873867e42440f36f0b9a49b3288b2d6c5a593751bab98328cf2db5583e940d4789d209065f48d5050288fc
+43ea3af3dcedc2ce34037e49f977533f6b051424c8ea84e162d85fe912e4013df298398abbb771628a7ce9ddd697a52ec6f687b878baa976e6e7cbdeb97caa5bb0d9a9a87b0ecde48b9
+7a2b0eeb739e7841e177e6eb6f3ce3df5e3d6bbf45f052009e6ef18c1719f43cb4751110e6f00e1860f23b7a95cdee1949f949c61ce0903347e038de53c1571c29de22ac6f7986187e5
+1ab74e1c937f0a9f8c8d2ab3da9019891fb2833d8a193c42e52159c9196ffd1cb26678a4eed58210b252831a54ee18745410ce38fb649993bc05bf7432ef569e3a917a94d943f51fbff
+0e79c86e070b1d34d19c5942490b086413a8e96c6a161811da43146e10067811cc2e5eb121c556cc99e7af4fddc54f1eaf51824a8fbffc967a457c4c79b8189c19b246b8e661b849a34
+591f5d0ed2cc86f813de2a03c7ac6a5908ec40f4d6ea1168dd1e557f8e6a71eeabe729d592ddb9c3ae6f9ccabbe0e3edbe851b8d9996a90c7b49b61a81b8013f827ff967c9143a3d3ad
+bdef141ea3ddc323c7f85a87f2284ba70670e0f470f4354e399e39781f09e011110b4819d4b16aa9a5a5e2d730248e59343744bac053c0a03c0428dce458ed56b07795913b1faa25b43
+66aee1ecfe943744bd9ede4b14b18e0f5423db369e07a75254cb9e90501ec1f31713a3aaf7d83260414b9b0488f3164d1ab524a7628f537c0729d251f91afc11d9e4d297e60c50ca4fb
+136251144696272380703107097a7d90d07c864e7bdd419bb8feb79bb4be3bc87ff5dc579458ed6a4d49439a9fc888624b8970c2e7a61efa0f606456fbfd1a3a71d4d35bf7651b1a17d
+75b389bc1021a0c4030001c6f49568001c54fbd5a1662fd50aa21144b7650f3102d854776b898dda11372aea59bf6e445817c16fcde778201b30f436843c4f635bec43a2434bd968083
+a9087447755c8e765156bea271c90cd1646c2dfce3823ad8ba575cb020f7478667b53179f028196ddc17acd817be65b5ac9958d4ee1aaadbb3b5daa90e20238db2a5f3129697cd25f3c
+2c86192ba6f311be342e3f9f26de3095304ff83c03768726bf149226ff754f660bbd8d7a627cd27098a5878abb93242f21b27293c16740c33412fd084df64e31b25b485d840b4ee9efb
+d35876716c01aa63b8d1b18d7de6d3b93dcba2dfc9152fd164073a662a803505c1c7caf446a8f74772110704954936073ec236f44ab5a9ca8c85b034efcf956b6324b92cb04b7723748
+47e68be955bfb940cf520f0b6cd36893b722f30f38ccf07eed7e802ab972a42bf2b7374d2720c88aa689dac4792eb2edc8703cbd466bf002dc4963334eba8919076966bec18e3cabc5e
+6c43e629424ece6a0e7e9140d9977a2cd31c258326f88b41f865d097c37be26e57dc8560c9ebe06d66d7a74a46631583d4060204d989dcfe0f53c268e189af5ae8470b10f212869f310
+28d1ad1178a4bfe97ff421a04d8089c7e6c9ce63107abad194b147a4bffd3fa8d477dd630bdcc1a616313e65213ecfb1fe2d3aa0d1a38155ae4a48a611133ced161342ccedeab613b9a
+5440959c4d63f5bad743e3985c39addebb9b4e9d58a6fc7977dde65e32dbcbd4a5d3abea39a241cad2998115d8b85e7e8c80ebd5340a8c6a80f984411aec6ca4afe4c720958ce81b95b
+33642b92a43e5b753e614021bafc596a8a9a063e8443e77aebfbea7b608a60d35b53c96addc07e5f7975cf16a49df3c8bd792a8a7f369a04051a75d6de55cb28218fecac528a3ed24d2
+c0aeb4341d61d0ae9ce605abee9a76eab34afee7d721b0c879e3e0a07224591ba100fbe1acd386570a08d4f00008dcef902f68704b6b27cd178415d0707a9af7320b3548397fe8952a6
+d181bf7c5808101b7dfd8efb80ea609861aa0b6f2c2a33a3e51a7069dab8706a74f81d08861fc8755f24a8edb4b515bf47d98c44aa34bce6d6de5beb8639aa8bce9531b9d3b4571fcb0
+e94ead9438a58ead17a80dc6e733e54ffe212e456c62c15caf6bd4c4f7bd2b8014351939b940719af672475e41d38f34dfd644f99f06125031841c74d32e0ac2f971991963ab9d8fda3
+052a272af7dfd59ba703261026a71b6517d4077ee55d09020dae563507cfb8ca3f116159ec5fa5dbf947ded9610c960d04351073a8993c7be14ce52818237fdd5f95a0144b5965b895b
+[7m--More--(0%)[27m[K]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 843644
+drwxrwxr-x   5 dschleed dschleed      4096 Aug 10 09:40 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed     12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed      8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed      4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed      3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed      1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed      3664 Aug 10 09:15 base64.o
+-rw-rw-r--   1 dschleed dschleed   9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed      4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed        79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed     18320 Aug 10 09:15 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed      2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      4096 Aug 10 09:41 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 502153216 Aug 10 08:21 don1
+-rw-rw-r--   1 dschleed dschleed 251076608 Aug 10 09:40 don2
+-rwxrwxr-x   1 dschleed dschleed     18448 Aug 10 09:15 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed      4996 Aug 10 09:15 encode.c
+-rw-rw-r--   1 dschleed dschleed   1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed      4096 Aug 10 09:15 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed       160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed       243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed       688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed  99999999 Aug 10 07:24 random.dat
+-rw-rw-r--   1 dschleed dschleed      1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed       372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed      1888 Aug 10 09:15 rc4.o
+-rw-rw-r--   1 dschleed dschleed       214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed       232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed        83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed      5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed      1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed      4424 Aug 10 09:15 sha256.o
+-rwxr-xr-x   1 dschleed dschleed       377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ dieharder -a -g 201 -f don2
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|                            don2|  6.67e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+   diehard_birthdays|   0|       100|     100|0.19810578|  PASSED  
+# The file file_input_raw was rewound 1 times
+      diehard_operm5|   0|   1000000|     100|0.04986347|  PASSED  
+# The file file_input_raw was rewound 3 times
+  diehard_rank_32x32|   0|     40000|     100|0.01200680|  PASSED  
+# The file file_input_raw was rewound 4 times
+    diehard_rank_6x8|   0|    100000|     100|0.04229148|  PASSED  
+# The file file_input_raw was rewound 5 times
+   diehard_bitstream|   0|   2097152|     100|0.00061359|   WEAK   
+# The file file_input_raw was rewound 8 times
+        diehard_opso|   0|   2097152|     100|0.01765914|  PASSED  
+# The file file_input_raw was rewound 10 times
+        diehard_oqso|   0|   2097152|     100|0.13008323|  PASSED  
+# The file file_input_raw was rewound 11 times
+         diehard_dna|   0|   2097152|     100|0.53095606|  PASSED  
+# The file file_input_raw was rewound 11 times
+diehard_count_1s_str|   0|    256000|     100|0.00012022|   WEAK   
+# The file file_input_raw was rewound 13 times
+diehard_count_1s_byt|   0|    256000|     100|0.04874390|  PASSED  
+# The file file_input_raw was rewound 14 times
+ diehard_parking_lot|   0|     12000|     100|0.00000000|  FAILED  
+# The file file_input_raw was rewound 14 times
+    diehard_2dsphere|   2|      8000|     100|0.08618734|  PASSED  
+^C
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don*
+-rw-rw-r-- 1 dschleed dschleed  60964864 Aug 10 09:43 don1
+-rw-rw-r-- 1 dschleed dschleed 251076608 Aug 10 09:40 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don*
+-rw-rw-r-- 1 dschleed dschleed  90742784 Aug 10 09:43 don1
+-rw-rw-r-- 1 dschleed dschleed 251076608 Aug 10 09:40 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don*
+-rw-rw-r-- 1 dschleed dschleed 105582592 Aug 10 09:43 don1
+-rw-rw-r-- 1 dschleed dschleed 251076608 Aug 10 09:40 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3314096
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:43 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed       8192 Aug 10 09:41 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 3031891968 Aug 10 09:48 don1
+-rw-rw-r--   1 dschleed dschleed  251076608 Aug 10 09:40 don2
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed   99999999 Aug 10 07:24 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3332912
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:43 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      12288 Aug 10 09:48 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 3051155456 Aug 10 09:48 don1
+-rw-rw-r--   1 dschleed dschleed  251076608 Aug 10 09:40 don2
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed   99999999 Aug 10 07:24 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1[K*
+-rw-rw-r-- 1 dschleed dschleed 3077873664 Aug 10 09:48 don1
+-rw-rw-r-- 1 dschleed dschleed  251076608 Aug 10 09:40 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ rm don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ent don1
+Entropy = 3.760309 bits per byte.
+
+Optimum compression would reduce the size
+of this 3114020864 byte file by 52 percent.
+
+Chi square distribution for 3114020864 samples is 63571964567.01, and randomly
+would exceed this value less than 0.01 percent of the times.
+
+Arithmetic mean value of data bytes is 72.3431 (127.5 = random).
+Monte Carlo value for Pi is 4.000000000 (error 27.32 percent).
+Serial correlation coefficient is 0.036668 (totally uncorrelated = 0.0).
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ historyu [K[K openss[K[K[K[K[K[K| grep openssl
+ 1919  [01;31m[Kopenssl[m[K enc -d -base64
+ 1924  cat don1 | awk ' { [01;31m[Kopenssl[m[K enc -d -base64 $1 } ' > don2
+ 1925  cat don1 | awk ' { print "[01;31m[Kopenssl[m[K enc -d -base64 $1" } ' > don2
+ 1926  cat don1 | awk ' { print "[01;31m[Kopenssl[m[K enc -d -base64 "$1 } ' > don2
+ 1929  cat don1 | awk ' { print "[01;31m[Kopenssl[m[K enc -d -base64 \""$1 "\"" } ' 
+ 1930  cat don1 | awk ' { print "[01;31m[Kopenssl[m[K enc -d -base64 \""$1 "\"" } ' > don2
+ 1934  cat don1 | awk ' { print "echo $1 | [01;31m[Kopenssl[m[K enc -d -base64 " } ' > don2
+ 1936  cat don1 | awk ' { print "echo " $1 " | [01;31m[Kopenssl[m[K enc -d -base64 " } ' > don2
+ 1938  echo z58pKD1RdzZlljwPGfusTO/FoOoFqW315xj2t3x9BtcbOPCxUw== | [01;31m[Kopenssl[m[K enc -d -base64 
+ 1939  cat don1 | awk ' { print "echo " $1 " | [01;31m[Kopenssl[m[K enc -d -base64 " } ' > don2
+ 1964  [01;31m[Kopenssl[m[K enc -d -base64
+ 1969  cat don1 | awk ' { [01;31m[Kopenssl[m[K enc -d -base64 $1 } ' > don2
+ 1970  cat don1 | awk ' { print "[01;31m[Kopenssl[m[K enc -d -base64 $1" } ' > don2
+ 1971  cat don1 | awk ' { print "[01;31m[Kopenssl[m[K enc -d -base64 "$1 } ' > don2
+ 1974  cat don1 | awk ' { print "[01;31m[Kopenssl[m[K enc -d -base64 \""$1 "\"" } ' 
+ 1975  cat don1 | awk ' { print "[01;31m[Kopenssl[m[K enc -d -base64 \""$1 "\"" } ' > don2
+ 1979  cat don1 | awk ' { print "echo $1 | [01;31m[Kopenssl[m[K enc -d -base64 " } ' > don2
+ 1981  cat don1 | awk ' { print "echo " $1 " | [01;31m[Kopenssl[m[K enc -d -base64 " } ' > don2
+ 1983  echo z58pKD1RdzZlljwPGfusTO/FoOoFqW315xj2t3x9BtcbOPCxUw== | [01;31m[Kopenssl[m[K enc -d -base64 
+ 1984  cat don1 | awk ' { print "echo " $1 " | [01;31m[Kopenssl[m[K enc -d -base64 " } ' > don2
+ 2008  history | grep [01;31m[Kopenssl[m[K
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ history | grep rand
+ 2009  history | grep [01;31m[Krand[m[K
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3820136
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:49 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      16384 Aug 10 09:48 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 3114020864 Aug 10 09:48 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed  787132416 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ rm don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 1469068
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:51 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      20480 Aug 10 09:51 dieharder-test.txt
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 1493659648 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 1602188
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:51 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      20480 Aug 10 09:51 dieharder-test.txt
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 1629974528 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 1663600
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:51 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      24576 Aug 10 09:51 dieharder-test.txt
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 1692856320 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 1716668
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:51 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      28672 Aug 10 09:51 dieharder-test.txt
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 1747193856 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 1763612
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:51 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      28672 Aug 10 09:51 dieharder-test.txt
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 1795264512 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 2010432
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:51 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      32768 Aug 10 09:51 dieharder-test.txt
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 2010432
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:51 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      32768 Aug 10 09:51 dieharder-test.txt
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 2043812
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      36864 Aug 10 09:52 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed   34177024 Aug 10 09:52 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 57245696 Aug 10 09:52 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 82751488 Aug 10 09:52 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 91783168 Aug 10 09:52 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 101105664 Aug 10 09:52 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 109293568 Aug 10 09:52 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 116662272 Aug 10 09:52 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 126816256 Aug 10 09:52 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 136056832 Aug 10 09:52 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 143663104 Aug 10 09:52 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 151162880 Aug 10 09:52 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 707645440 Aug 10 09:53 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 718553088 Aug 10 09:53 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 724963328 Aug 10 09:53 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 732483584 Aug 10 09:53 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 742649856 Aug 10 09:53 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 1245859840 Aug 10 09:54 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 1254850560 Aug 10 09:54 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 1262813184 Aug 10 09:54 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 1269927936 Aug 10 09:54 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 1277870080 Aug 10 09:54 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 1286086656 Aug 10 09:54 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 1294467072 Aug 10 09:54 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 1303248896 Aug 10 09:54 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 1310932992 Aug 10 09:54 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 1318465536 Aug 10 09:54 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 1325965312 Aug 10 09:54 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 1333030912 Aug 10 09:54 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 1339633664 Aug 10 09:54 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3615404
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      40960 Aug 10 09:52 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 1643479040 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3627864
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      45056 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 1656233984 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls-al don1
+ls-al: command not found
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls-al don1[C[1P[C[1P[1@s[1@ [1@-[C[C[C[C[C[C[C
+-rw-rw-r-- 1 dschleed dschleed 1740902400 Aug 10 09:55 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3726172
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      49152 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 1756897280 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3737764
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      49152 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 1768767488 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don1
+-rw-rw-r-- 1 dschleed dschleed 1788710912 Aug 10 09:55 don1
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3778312
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      53248 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 1810284544 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3788656
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      53248 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 1820876800 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3801456
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      57344 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 1833979904 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3812500
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      61440 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 1845284864 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3822496
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      61440 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 1855520768 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3831932
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      65536 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 1865179136 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3841920
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      65536 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 1875406848 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3851804
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      69632 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 1885523968 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3861476
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      69632 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 1895428096 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3915624
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      73728 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 1950871552 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3927260
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      77824 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 1962782720 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3952016
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      77824 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 1988128768 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3962780
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      81920 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 1999147008 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3978520
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      81920 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 2015264768 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 3991188
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      86016 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 2028232704 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 4003184
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:52 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      86016 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 2040516608 Aug 10 09:55 don1
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 4033772
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:55 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      90112 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 2066935808 Aug 10 09:55 don1
+-rw-rw-r--   1 dschleed dschleed    4898816 Aug 10 09:55 don2
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 4035764
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:55 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      94208 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 2066935808 Aug 10 09:55 don1
+-rw-rw-r--   1 dschleed dschleed    6934528 Aug 10 09:55 don2
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 4037280
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:55 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      94208 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 2066935808 Aug 10 09:55 don1
+-rw-rw-r--   1 dschleed dschleed    8486912 Aug 10 09:55 don2
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -=al [K[K[K[Kal don*
+-rw-rw-r-- 1 dschleed dschleed 2066935808 Aug 10 09:55 don1
+-rw-rw-r-- 1 dschleed dschleed  276365312 Aug 10 09:58 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don*
+-rw-rw-r-- 1 dschleed dschleed 2066935808 Aug 10 09:55 don1
+-rw-rw-r-- 1 dschleed dschleed  279519232 Aug 10 09:58 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don*
+-rw-rw-r-- 1 dschleed dschleed 2066935808 Aug 10 09:55 don1
+-rw-rw-r-- 1 dschleed dschleed  280969216 Aug 10 09:58 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don*
+-rw-rw-r-- 1 dschleed dschleed 2066935808 Aug 10 09:55 don1
+-rw-rw-r-- 1 dschleed dschleed  282361856 Aug 10 09:58 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don*
+-rw-rw-r-- 1 dschleed dschleed 2066935808 Aug 10 09:55 don1
+-rw-rw-r-- 1 dschleed dschleed  283865088 Aug 10 09:58 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don*
+-rw-rw-r-- 1 dschleed dschleed 2066935808 Aug 10 09:55 don1
+-rw-rw-r-- 1 dschleed dschleed  284987392 Aug 10 09:58 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don*
+-rw-rw-r-- 1 dschleed dschleed 2066935808 Aug 10 09:55 don1
+-rw-rw-r-- 1 dschleed dschleed  286248960 Aug 10 09:58 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don*
+-rw-rw-r-- 1 dschleed dschleed 2066935808 Aug 10 09:55 don1
+-rw-rw-r-- 1 dschleed dschleed  287457280 Aug 10 09:58 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don*
+-rw-rw-r-- 1 dschleed dschleed 2066935808 Aug 10 09:55 don1
+-rw-rw-r-- 1 dschleed dschleed  288550912 Aug 10 09:58 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don*
+-rw-rw-r-- 1 dschleed dschleed 2066935808 Aug 10 09:55 don1
+-rw-rw-r-- 1 dschleed dschleed  290009088 Aug 10 09:58 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don*
+-rw-rw-r-- 1 dschleed dschleed 2066935808 Aug 10 09:55 don1
+-rw-rw-r-- 1 dschleed dschleed  291344384 Aug 10 09:58 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don*
+-rw-rw-r-- 1 dschleed dschleed 2066935808 Aug 10 09:55 don1
+-rw-rw-r-- 1 dschleed dschleed  292704256 Aug 10 09:58 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 4450804
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:55 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed      98304 Aug 10 09:55 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 2066935808 Aug 10 09:55 don1
+-rw-rw-r--   1 dschleed dschleed  431931392 Aug 10 10:00 don2
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al
+total 4452648
+drwxrwxr-x   5 dschleed dschleed       4096 Aug 10 09:55 [0m[01;34m.[0m
+drwxr-xr-x 149 dschleed dschleed      12288 Aug 10 06:35 [01;34m..[0m
+-rwxrwxr-x   1 dschleed dschleed       8944 Aug 10 07:54 [01;32ma.out[0m
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:13 [01;34marchive[0m
+-rw-rw-r--   1 dschleed dschleed       3078 Aug  4 11:48 base64.c
+-rw-rw-r--   1 dschleed dschleed       1157 Aug  4 11:21 base64.h
+-rw-rw-r--   1 dschleed dschleed       3664 Aug 10 09:43 base64.o
+-rw-rw-r--   1 dschleed dschleed    9248918 Aug 10 08:10 binascii
+drwxrwxr-x   2 dschleed dschleed       4096 Aug  4 16:14 [01;34mdata[0m
+-rw-rw-r--   1 dschleed dschleed         79 Aug 10 09:17 dd
+-rwxrwxr-x   1 dschleed dschleed      18320 Aug 10 09:43 [01;32mdecode[0m
+-rw-rw-r--   1 dschleed dschleed       2749 Aug  7 12:35 decode.c
+-rw-rw-r--   1 dschleed dschleed     102400 Aug 10 10:00 dieharder-test.txt
+-rw-rw-r--   1 dschleed dschleed 2066935808 Aug 10 09:55 don1
+-rw-rw-r--   1 dschleed dschleed  433815552 Aug 10 10:00 don2
+-rwxrwxr-x   1 dschleed dschleed      18408 Aug 10 09:43 [01;32mencode[0m
+-rw-rw-r--   1 dschleed dschleed       4992 Aug 10 09:43 encode.c
+-rw-rw-r--   1 dschleed dschleed    1213124 Aug  7 16:58 final-results
+drwxrwxr-x   8 dschleed dschleed       4096 Aug 10 09:43 [01;34m.git[0m
+-rwxr-xr-x   1 dschleed dschleed        160 Aug 10 08:16 [01;32mhextodec.py[0m
+-rw-rw-r--   1 dschleed dschleed        243 Aug  7 09:23 Makefile
+-rw-rw-r--   1 dschleed dschleed        688 Aug 10 07:54 rand.c
+-rw-rw-r--   1 dschleed dschleed 2048000000 Aug 10 09:51 random.dat
+-rw-rw-r--   1 dschleed dschleed       1146 Aug  4 11:39 rc4.c
+-rw-rw-r--   1 dschleed dschleed        372 Aug  4 11:19 rc4.h
+-rw-rw-r--   1 dschleed dschleed       1888 Aug 10 09:43 rc4.o
+-rw-rw-r--   1 dschleed dschleed        214 Aug  2 17:30 README
+-rwxr-xr-x   1 dschleed dschleed        232 Aug  4 14:30 [01;32mreplicate-1.py[0m
+-rwxr-xr-x   1 dschleed dschleed         83 Aug  7 12:41 [01;32mrun.sh[0m
+-rw-r--r--   1 dschleed dschleed       5399 Aug  4 16:10 sha256.c
+-rw-r--r--   1 dschleed dschleed       1225 Aug  4 16:10 sha256.h
+-rw-rw-r--   1 dschleed dschleed       4424 Aug 10 09:43 sha256.o
+-rwxr-xr-x   1 dschleed dschleed        377 Aug  4 15:48 [01;32mtest.py[0m
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don2
+-rw-rw-r-- 1 dschleed dschleed 436940800 Aug 10 10:00 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don2
+-rw-rw-r-- 1 dschleed dschleed 438661120 Aug 10 10:00 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don2
+-rw-rw-r-- 1 dschleed dschleed 439988224 Aug 10 10:00 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don2
+-rw-rw-r-- 1 dschleed dschleed 441106432 Aug 10 10:00 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ent don2
+Entropy = 7.999997 bits per byte.
+
+Optimum compression would reduce the size
+of this 467525632 byte file by 0 percent.
+
+Chi square distribution for 467525632 samples is 1754.99, and randomly
+would exceed this value less than 0.01 percent of the times.
+
+Arithmetic mean value of data bytes is 127.5135 (127.5 = random).
+Monte Carlo value for Pi is 3.141045094 (error 0.02 percent).
+Serial correlation coefficient is -0.000060 (totally uncorrelated = 0.0).
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ent don2[3@ls -al[C[C[C[C[C
+-rw-rw-r-- 1 dschleed dschleed 562786304 Aug 10 10:01 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don2
+-rw-rw-r-- 1 dschleed dschleed 564105216 Aug 10 10:01 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don2
+-rw-rw-r-- 1 dschleed dschleed 564678656 Aug 10 10:01 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don2
+-rw-rw-r-- 1 dschleed dschleed 566423552 Aug 10 10:01 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don2
+-rw-rw-r-- 1 dschleed dschleed 731885568 Aug 10 10:03 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don2
+-rw-rw-r-- 1 dschleed dschleed 733917184 Aug 10 10:03 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don2
+-rw-rw-r-- 1 dschleed dschleed 1033465856 Aug 10 10:06 don2
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ ls -al don2[3Pent[C[C[C[C[C
+Entropy = 7.999998 bits per byte.
+
+Optimum compression would reduce the size
+of this 1033467904 byte file by 0 percent.
+
+Chi square distribution for 1033467904 samples is 3444.47, and randomly
+would exceed this value less than 0.01 percent of the times.
+
+Arithmetic mean value of data bytes is 127.5174 (127.5 = random).
+Monte Carlo value for Pi is 3.141095483 (error 0.02 percent).
+Serial correlation coefficient is -0.000055 (totally uncorrelated = 0.0).
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ dieharder -a -g 201 -f don2
+#=============================================================================#
+#            dieharder version 3.31.1 Copyright 2003 Robert G. Brown          #
+#=============================================================================#
+   rng_name    |           filename             |rands/second|
+ file_input_raw|                            don2|  6.60e+07  |
+#=============================================================================#
+        test_name   |ntup| tsamples |psamples|  p-value |Assessment
+#=============================================================================#
+   diehard_birthdays|   0|       100|     100|0.63300125|  PASSED  
+      diehard_operm5|   0|   1000000|     100|0.28006082|  PASSED  
+  diehard_rank_32x32|   0|     40000|     100|0.75658621|  PASSED  
+# The file file_input_raw was rewound 1 times
+    diehard_rank_6x8|   0|    100000|     100|0.50262734|  PASSED  
+# The file file_input_raw was rewound 1 times
+   diehard_bitstream|   0|   2097152|     100|0.72743229|  PASSED  
+# The file file_input_raw was rewound 2 times
+        diehard_opso|   0|   2097152|     100|0.77707227|  PASSED  
+# The file file_input_raw was rewound 2 times
+        diehard_oqso|   0|   2097152|     100|0.53866028|  PASSED  
+# The file file_input_raw was rewound 2 times
+         diehard_dna|   0|   2097152|     100|0.06457274|  PASSED  
+# The file file_input_raw was rewound 2 times
+diehard_count_1s_str|   0|    256000|     100|0.82039977|  PASSED  
+# The file file_input_raw was rewound 3 times
+diehard_count_1s_byt|   0|    256000|     100|0.80297765|  PASSED  
+# The file file_input_raw was rewound 3 times
+ diehard_parking_lot|   0|     12000|     100|0.43795973|  PASSED  
+# The file file_input_raw was rewound 3 times
+    diehard_2dsphere|   2|      8000|     100|0.84485096|  PASSED  
+# The file file_input_raw was rewound 3 times
+    diehard_3dsphere|   3|      4000|     100|0.38742244|  PASSED  
+# The file file_input_raw was rewound 4 times
+     diehard_squeeze|   0|    100000|     100|0.51169715|  PASSED  
+# The file file_input_raw was rewound 4 times
+        diehard_sums|   0|       100|     100|0.64780020|  PASSED  
+# The file file_input_raw was rewound 4 times
+        diehard_runs|   0|    100000|     100|0.93778228|  PASSED  
+        diehard_runs|   0|    100000|     100|0.94806948|  PASSED  
+# The file file_input_raw was rewound 4 times
+       diehard_craps|   0|    200000|     100|0.60334904|  PASSED  
+       diehard_craps|   0|    200000|     100|0.85803170|  PASSED  
+# The file file_input_raw was rewound 12 times
+ marsaglia_tsang_gcd|   0|  10000000|     100|0.00919412|  PASSED  
+ marsaglia_tsang_gcd|   0|  10000000|     100|0.00024614|   WEAK   
+# The file file_input_raw was rewound 12 times
+         sts_monobit|   1|    100000|     100|0.05507735|  PASSED  
+# The file file_input_raw was rewound 12 times
+            sts_runs|   2|    100000|     100|0.05897607|  PASSED  
+# The file file_input_raw was rewound 12 times
+          sts_serial|   1|    100000|     100|0.51430351|  PASSED  
+          sts_serial|   2|    100000|     100|0.97140096|  PASSED  
+          sts_serial|   3|    100000|     100|0.35092317|  PASSED  
+          sts_serial|   3|    100000|     100|0.10479025|  PASSED  
+          sts_serial|   4|    100000|     100|0.89378869|  PASSED  
+          sts_serial|   4|    100000|     100|0.30909959|  PASSED  
+          sts_serial|   5|    100000|     100|0.70778715|  PASSED  
+          sts_serial|   5|    100000|     100|0.26728574|  PASSED  
+          sts_serial|   6|    100000|     100|0.64056331|  PASSED  
+          sts_serial|   6|    100000|     100|0.53841197|  PASSED  
+          sts_serial|   7|    100000|     100|0.17481075|  PASSED  
+          sts_serial|   7|    100000|     100|0.30119096|  PASSED  
+          sts_serial|   8|    100000|     100|0.04855965|  PASSED  
+          sts_serial|   8|    100000|     100|0.40312453|  PASSED  
+          sts_serial|   9|    100000|     100|0.07119156|  PASSED  
+          sts_serial|   9|    100000|     100|0.23795101|  PASSED  
+          sts_serial|  10|    100000|     100|0.10286072|  PASSED  
+          sts_serial|  10|    100000|     100|0.56950840|  PASSED  
+          sts_serial|  11|    100000|     100|0.09098529|  PASSED  
+          sts_serial|  11|    100000|     100|0.53630091|  PASSED  
+          sts_serial|  12|    100000|     100|0.02888860|  PASSED  
+          sts_serial|  12|    100000|     100|0.60200790|  PASSED  
+          sts_serial|  13|    100000|     100|0.01945120|  PASSED  
+          sts_serial|  13|    100000|     100|0.75886377|  PASSED  
+          sts_serial|  14|    100000|     100|0.01715949|  PASSED  
+          sts_serial|  14|    100000|     100|0.20751152|  PASSED  
+          sts_serial|  15|    100000|     100|0.01622683|  PASSED  
+          sts_serial|  15|    100000|     100|0.41498663|  PASSED  
+          sts_serial|  16|    100000|     100|0.17483622|  PASSED  
+          sts_serial|  16|    100000|     100|0.67946574|  PASSED  
+# The file file_input_raw was rewound 12 times
+         rgb_bitdist|   1|    100000|     100|0.48944479|  PASSED  
+# The file file_input_raw was rewound 12 times
+         rgb_bitdist|   2|    100000|     100|0.76399029|  PASSED  
+# The file file_input_raw was rewound 13 times
+         rgb_bitdist|   3|    100000|     100|0.97024020|  PASSED  
+# The file file_input_raw was rewound 13 times
+         rgb_bitdist|   4|    100000|     100|0.75783211|  PASSED  
+# The file file_input_raw was rewound 13 times
+         rgb_bitdist|   5|    100000|     100|0.31687269|  PASSED  
+# The file file_input_raw was rewound 14 times
+         rgb_bitdist|   6|    100000|     100|0.00377238|   WEAK   
+# The file file_input_raw was rewound 14 times
+         rgb_bitdist|   7|    100000|     100|0.97392447|  PASSED  
+# The file file_input_raw was rewound 15 times
+         rgb_bitdist|   8|    100000|     100|0.84147347|  PASSED  
+# The file file_input_raw was rewound 16 times
+         rgb_bitdist|   9|    100000|     100|0.40815809|  PASSED  
+# The file file_input_raw was rewound 16 times
+         rgb_bitdist|  10|    100000|     100|0.70343333|  PASSED  
+# The file file_input_raw was rewound 17 times
+         rgb_bitdist|  11|    100000|     100|0.99439682|  PASSED  
+# The file file_input_raw was rewound 18 times
+         rgb_bitdist|  12|    100000|     100|0.87007150|  PASSED  
+# The file file_input_raw was rewound 18 times
+rgb_minimum_distance|   2|     10000|    1000|0.79868392|  PASSED  
+# The file file_input_raw was rewound 18 times
+rgb_minimum_distance|   3|     10000|    1000|0.84733773|  PASSED  
+# The file file_input_raw was rewound 19 times
+rgb_minimum_distance|   4|     10000|    1000|0.00966072|  PASSED  
+# The file file_input_raw was rewound 19 times
+rgb_minimum_distance|   5|     10000|    1000|0.27129036|  PASSED  
+# The file file_input_raw was rewound 19 times
+    rgb_permutations|   2|    100000|     100|0.14134985|  PASSED  
+# The file file_input_raw was rewound 19 times
+    rgb_permutations|   3|    100000|     100|0.96489589|  PASSED  
+# The file file_input_raw was rewound 19 times
+    rgb_permutations|   4|    100000|     100|0.12153411|  PASSED  
+# The file file_input_raw was rewound 19 times
+    rgb_permutations|   5|    100000|     100|0.96111952|  PASSED  
+# The file file_input_raw was rewound 20 times
+      rgb_lagged_sum|   0|   1000000|     100|0.05593593|  PASSED  
+# The file file_input_raw was rewound 21 times
+      rgb_lagged_sum|   1|   1000000|     100|0.08467565|  PASSED  
+# The file file_input_raw was rewound 22 times
+      rgb_lagged_sum|   2|   1000000|     100|0.02462156|  PASSED  
+# The file file_input_raw was rewound 23 times
+      rgb_lagged_sum|   3|   1000000|     100|0.04436728|  PASSED  
+# The file file_input_raw was rewound 25 times
+      rgb_lagged_sum|   4|   1000000|     100|0.01460237|  PASSED  
+# The file file_input_raw was rewound 27 times
+      rgb_lagged_sum|   5|   1000000|     100|0.04620802|  PASSED  
+# The file file_input_raw was rewound 30 times
+      rgb_lagged_sum|   6|   1000000|     100|0.65361129|  PASSED  
+# The file file_input_raw was rewound 33 times
+      rgb_lagged_sum|   7|   1000000|     100|0.01972972|  PASSED  
+# The file file_input_raw was rewound 37 times
+      rgb_lagged_sum|   8|   1000000|     100|0.31287017|  PASSED  
+# The file file_input_raw was rewound 41 times
+      rgb_lagged_sum|   9|   1000000|     100|0.02222923|  PASSED  
+# The file file_input_raw was rewound 45 times
+      rgb_lagged_sum|  10|   1000000|     100|0.11651546|  PASSED  
+# The file file_input_raw was rewound 50 times
+      rgb_lagged_sum|  11|   1000000|     100|0.13218748|  PASSED  
+# The file file_input_raw was rewound 55 times
+      rgb_lagged_sum|  12|   1000000|     100|0.00059808|   WEAK   
+# The file file_input_raw was rewound 60 times
+      rgb_lagged_sum|  13|   1000000|     100|0.23348974|  PASSED  
+# The file file_input_raw was rewound 66 times
+      rgb_lagged_sum|  14|   1000000|     100|0.00457238|   WEAK   
+# The file file_input_raw was rewound 72 times
+      rgb_lagged_sum|  15|   1000000|     100|0.00047419|   WEAK   
+# The file file_input_raw was rewound 79 times
+      rgb_lagged_sum|  16|   1000000|     100|0.05385549|  PASSED  
+# The file file_input_raw was rewound 86 times
+      rgb_lagged_sum|  17|   1000000|     100|0.00202819|   WEAK   
+# The file file_input_raw was rewound 93 times
+      rgb_lagged_sum|  18|   1000000|     100|0.02235968|  PASSED  
+# The file file_input_raw was rewound 101 times
+      rgb_lagged_sum|  19|   1000000|     100|0.03403130|  PASSED  
+# The file file_input_raw was rewound 109 times
+      rgb_lagged_sum|  20|   1000000|     100|0.60576573|  PASSED  
+# The file file_input_raw was rewound 117 times
+      rgb_lagged_sum|  21|   1000000|     100|0.00383622|   WEAK   
+# The file file_input_raw was rewound 126 times
+      rgb_lagged_sum|  22|   1000000|     100|0.22889819|  PASSED  
+# The file file_input_raw was rewound 135 times
+      rgb_lagged_sum|  23|   1000000|     100|0.03149938|  PASSED  
+# The file file_input_raw was rewound 145 times
+      rgb_lagged_sum|  24|   1000000|     100|0.06570571|  PASSED  
+# The file file_input_raw was rewound 155 times
+      rgb_lagged_sum|  25|   1000000|     100|0.01043969|  PASSED  
+# The file file_input_raw was rewound 166 times
+      rgb_lagged_sum|  26|   1000000|     100|0.05574004|  PASSED  
+# The file file_input_raw was rewound 176 times
+      rgb_lagged_sum|  27|   1000000|     100|0.00001513|   WEAK   
+# The file file_input_raw was rewound 188 times
+      rgb_lagged_sum|  28|   1000000|     100|0.00032493|   WEAK   
+# The file file_input_raw was rewound 199 times
+      rgb_lagged_sum|  29|   1000000|     100|0.02880298|  PASSED  
+# The file file_input_raw was rewound 211 times
+      rgb_lagged_sum|  30|   1000000|     100|0.43843519|  PASSED  
+# The file file_input_raw was rewound 224 times
+      rgb_lagged_sum|  31|   1000000|     100|0.00000008|  FAILED  
+# The file file_input_raw was rewound 236 times
+      rgb_lagged_sum|  32|   1000000|     100|0.00013335|   WEAK   
+# The file file_input_raw was rewound 237 times
+     rgb_kstest_test|   0|     10000|    1000|0.24845445|  PASSED  
+# The file file_input_raw was rewound 237 times
+     dab_bytedistrib|   0|  51200000|       1|0.00000000|  FAILED  
+# The file file_input_raw was rewound 237 times
+             dab_dct| 256|     50000|       1|0.20493281|  PASSED  
+Preparing to run test 207.  ntuple = 0
+# The file file_input_raw was rewound 238 times
+        dab_filltree|  32|  15000000|       1|0.46274987|  PASSED  
+        dab_filltree|  32|  15000000|       1|0.68359123|  PASSED  
+Preparing to run test 208.  ntuple = 0
+# The file file_input_raw was rewound 238 times
+       dab_filltree2|   0|   5000000|       1|0.46338371|  PASSED  
+       dab_filltree2|   1|   5000000|       1|0.72915234|  PASSED  
+Preparing to run test 209.  ntuple = 0
+# The file file_input_raw was rewound 238 times
+        dab_monobit2|  12|  65000000|       1|0.97716366|  PASSED  
+]0;dschleed@dschleede: ~/pp-cookiedschleed@dschleede:~/pp-cookie$ exit
+exit
+
+Script done on Thu 10 Aug 2017 10:46:38 AM CDT
